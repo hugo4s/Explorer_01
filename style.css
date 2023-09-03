@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  overflow: hidden;
+}
+#main {
+  margin: 64px auto 240px;
+  width: 624px;
+}
+h1 {
+  font-family: 'Dosis';
+  font-style: 500;
+  color: #3F3D56;
+  font-size: 32px;
+}
+h1 span {
+  font-family: 'Dosis';
+  font-style: 700;
+  color: #EE24FF;
+}
+p {
+  font-family:  'Open Sans';
+  font-style: 500;
+  font-size: 15px;
+  color: #828282;
+  width: 540px;
+  margin: auto;
+}
+p span {
+  font-family: 'Open Sans';
+  font-style: 700;
+  color: #3F3D56;
+}
+footer img {
+ top: 0;
+}
